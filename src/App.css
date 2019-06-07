@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.OmintLogo {
+  font-family: Convergence; font-size: 35px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 38.5px;
+}
+
+.Navegador {
+  font-family: 'Arial';
+  font-style: normal;
+  
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
